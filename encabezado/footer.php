@@ -23,7 +23,7 @@
 
     <body>
         
-    <div style="margin-top: 500px; background-color: blue; padding: 30px; color: white; text-align: center;">
+    <div style="margin-top: 300px; background-color: blue; padding: 30px; color: white; text-align: center;">
         <h1>Registro de Estudiantes</h1>
     </div>
 

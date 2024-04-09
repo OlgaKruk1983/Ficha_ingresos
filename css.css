@@ -1,0 +1,25 @@
+form{
+    border: solid 4px;
+    border-color: rgb(87, 97, 236);
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(40, 233, 175);
+    
+    
+    
+}
+
+input{
+    border-radius: 5px;
+    margin-top: 20px;
+        
+    
+}
+
+div{
+    background-color: rgb(241, 241, 187);
+}
+
